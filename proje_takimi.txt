@@ -1,0 +1,11 @@
+PROJE TAKIMI BİLGİLERİ
+Proje Konusu: Akıllı Kampüs Ders Programı (Derslik ve Öğretim Elemanı Çakışmasız Otomatik Planlama Sistemi)
+
+Grup Üyeleri:
+1. Öğrenci Numarası: 1250505050
+   Adı Soyadı: Halime Hilal Öztürk
+   Görevi: Mimari Tasarım, OOP Yapısı, Sınıf Diyagramı ve Servis Katmanı Kodlaması
+
+2. Öğrenci Numarası: 1250505040
+   Adı Soyadı: Pelin Kuzey
+   Görevi: Çakışma Algoritması, Dosyalama/Kalıcı Veri Yönetimi ve Birim Testleri (Unit Tests)
